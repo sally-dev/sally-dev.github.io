@@ -1,5 +1,15 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2020-06-28 
-categories: jekyll update
+title:  "블로그를 해볼까?
+excerpt: "뭐라도 끄적여보길 했다."
+
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2020-06-28T19:10:00-05:00
 ---
+
+항상 기록을 남겨야 하는데, 그래야 하는데.. 생각만 하다가,
+일단 블로그를 만들어둬야 뭐라도 끄적일 것 같아서 만들기로 했다.
+
+앞으로 이 블로그가 가득해지길.
